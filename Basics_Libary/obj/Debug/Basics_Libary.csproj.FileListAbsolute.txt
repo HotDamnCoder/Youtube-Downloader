@@ -1,0 +1,42 @@
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\bin\Debug\taglib-sharp.dll
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\obj\Debug\Basics_Libary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\obj\Debug\Basics_Libary.csproj.CopyComplete
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcus\Desktop\Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csproj.CopyComplete
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\taglib-sharp.dll
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csprojAssemblyReference.cache
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\FFMpegSharp.dll
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\FFMpegSharp.dll
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\taglib-sharp.dll
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csprojAssemblyReference.cache
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus-PC\Desktop\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csproj.CopyComplete
+D:\Projects\Youtube Downloader\Basics_Libary\bin\Debug\ClassLibrary1.dll
+D:\Projects\Youtube Downloader\Basics_Libary\bin\Debug\ClassLibrary1.pdb
+D:\Projects\Youtube Downloader\Basics_Libary\bin\Debug\FFMpegSharp.dll
+D:\Projects\Youtube Downloader\Basics_Libary\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Projects\Youtube Downloader\Basics_Libary\bin\Debug\taglib-sharp.dll
+D:\Projects\Youtube Downloader\Basics_Libary\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csprojAssemblyReference.cache
+D:\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csproj.CoreCompileInputs.cache
+D:\Projects\Youtube Downloader\Basics_Libary\obj\Debug\Basics_Libary.csproj.CopyComplete
+D:\Projects\Youtube Downloader\Basics_Libary\obj\Debug\ClassLibrary1.dll
+D:\Projects\Youtube Downloader\Basics_Libary\obj\Debug\ClassLibrary1.pdb

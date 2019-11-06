@@ -1,0 +1,8 @@
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\bin\Debug\Tagging Libary.dll
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\bin\Debug\Tagging Libary.pdb
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\obj\Debug\Tagging Libary.csprojAssemblyReference.cache
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\obj\Debug\Interop.Shell32.dll
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\obj\Debug\Tagging Libary.csproj.ResolveComReference.cache
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\obj\Debug\Tagging Libary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\obj\Debug\Tagging Libary.dll
+C:\Users\Marcus\Desktop\Projects\Youtube Downloader\Tagging Libary\obj\Debug\Tagging Libary.pdb
